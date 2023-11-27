@@ -28,7 +28,8 @@ h1 {
 </style>
 </head>
 <body>
-    <h3 color=red>Read the terms and eligibility criteria carefully</h3>
+    <h1 color=red><center>VitalFlow</h1>
+    <marquee><h3 color=red>Read the terms and eligibility criteria carefully</h3></marquee>
 <h1>Eligibility</h1>
 Age: Donors are typically required to be within a certain age range, often between 16 to 65 years old. Some centers may allow 16-year-olds to donate with parental consent, while others might have an upper age limit of 60 or 65 years. This can vary based on local regulations and the policies of the specific donation center.VitalFlow allows age 21-65.
 <br><br>
